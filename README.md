@@ -1,2 +1,2 @@
 # image-filtering
-blurred image can be restored
+restoration of blurred image using sharpening filter
